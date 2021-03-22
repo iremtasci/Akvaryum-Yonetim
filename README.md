@@ -1,2 +1,3 @@
 # Akvaryum Yonetim
- Veritabanı Yönetim Sistemleri Proje Ödevi
+ Veritabanı Yönetim Sistemleri 
+ Büyük çaplı akvaryumlar ve diğer varlıklar için stok takip sistemi olarak tasarlanmıştır.
